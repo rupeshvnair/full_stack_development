@@ -1,0 +1,88 @@
+/* we can comment using forward slash and asterisk
+Else we can select the text and press ctrl and forward slash */
+
+/* From Video1
+h1{
+  color: purple;
+}
+
+li{
+  color: rgb(173,173,55);
+}
+
+p{
+  color: #e62233;
+}
+
+h4{
+  color: rgba(63, 240, 10, 1);
+} */
+/* rgba has an extra dimension that corresponds to the transparency */
+
+/* Video2
+body{
+  /* background-color: grey; */
+  /* background: url(https://krspace.files.wordpress.com/2018/10/kimi-win-2018-5.png);
+  background-repeat: no-repeat;
+} */
+
+/* div{
+  background-color: grey;
+  border-color: green;
+  color: white;
+  border-width: thick;
+  border-style: dashed;
+}
+
+span{
+  color: red;
+} */
+/* for border you have to specify color width and style only then it will work */
+
+/*
+Video3
+
+.firstDiv{
+  color: red;
+}
+
+.secondDiv{
+  color: green;
+}
+
+#singledout{
+  color: blue;
+  text-decoration: line-through;
+}
+
+/* *{
+  color: grey;
+} */
+
+/* h3 + ul{
+  border: 4px dotted purple;
+}
+/* plus symbol means a ul that is next to h3 gets the changes */
+
+
+/* a{
+  color: red;
+}
+
+a[href="www.instagram.com"]{
+  color: orange;
+  border: 5px solid orange;
+} */
+
+
+li{
+  color: red;
+}
+
+.topitems{
+  color: blue;
+}
+
+#two{
+  color: magenta;
+}

@@ -1,0 +1,31 @@
+h1{
+  font-family: "Optima"
+}
+
+p{
+  font-family: 'Glory', sans-serif;
+}
+
+body{
+  font-size: 20px;
+}
+
+#second{
+  font-size: 1em;
+}
+
+p{
+  font-style: normal;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  border: 2px solid blue;
+  width: 25%;
+  text-align: center;
+  margin: auto;
+  padding: .5%;
+}

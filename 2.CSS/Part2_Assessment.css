@@ -1,0 +1,30 @@
+h1{
+  font-family: 'Allison', cursive;
+  text-align: center;
+}
+
+.Test1{
+  margin: auto;
+}
+td{
+  height: 350px;
+  width: 200px;
+  border: 4px solid white;
+}
+
+#One{
+  background-color: #ffbe0b;
+  margin: auto;
+}
+#Two{
+  background-color: #FB5607;
+}
+#Three{
+  background-color: #FF006E;
+}
+#Four{
+  background-color: #8338EC;
+}
+#Five{
+  background-color: #3A86FF;
+}
